@@ -7,3 +7,4 @@ body {
   font-family: system-ui, sans-serif;
 }
 a { color: inherit; text-underline-offset: 3px; }
+.container { max-width: 720px; margin: 0 auto; padding: 1.5rem; }
